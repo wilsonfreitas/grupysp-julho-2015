@@ -1,0 +1,11 @@
+
+.ipynb_checkpoints/*
+.Python
+bin/*
+lib/*
+include/*
+man/*
+pip-selfcheck.json
+share/*
+*.tar.gz
+reveal.js*
